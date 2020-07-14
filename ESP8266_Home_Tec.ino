@@ -14,7 +14,7 @@ static const uint8_t TX   = 1;
 
 // WiFi parameters to be configured
 const char* ssid = "WLAN-801897";
-const char* password = "6524329228975833";
+const char* password = "...";
 
 void setup(void)
 { 
